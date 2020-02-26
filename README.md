@@ -100,7 +100,10 @@ const levels = [22, 16, 9, 10, 7, 14, 11, 9];
 
 ### Progression 4.2: Array of strings
 
-Declare a function named `averageWordLength` that receives as a single argument an array of words and returns the average length of the words:
+Declare a function named `
+
+
+` that receives as a single argument an array of words and returns the average length of the words:
 
 **Starter Code**
 
